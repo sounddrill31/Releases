@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1696753316,
+      "datetime": 1707080261,
       "filename": "lineage-20.0-20231008-UNOFFICIAL-mido.zip",
-      "id": "cde9fc99dd0abe8e22dd678c2927dea7",
+      "id": "67088557587568258391672168389320",
       "romtype": "UNOFFICIAL",
-      "size": 797001224,
-      "url": "https://github.com/zeelog/OTA/releases/download/86.0/lineage-20.0-20231008-UNOFFICIAL-mido.zip",
+      "size": 1020264448,
+      "url": "https://github.com/sounddrill31/Releases/releases/download/PlrOS-oxygen-20240204/lineage-20.0-20240204-UNOFFICIAL-REMIX-oxygen.zip",
       "version": "20.0"
     }
   ]
