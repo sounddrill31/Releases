@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1707230879,
-      "filename": "lineage-20.0-20240206-UNOFFICIAL-REMIX-oxygen.zip",
-      "id": "9e182df0f4e5486aaeb4f70c79a8e50d4d8e2f6e71ef5fb24eda60ae6b0db495",
+      "datetime": 1707388559,
+      "filename": "lineage-20.0-20240208-UNOFFICIAL-REMIX-oxygen.zip",
+      "id": "e9d5a0c8a0d87e6c74e27739b12d88952d44746e910fa316f19adfd5ed24c82e",
       "romtype": "UNOFFICIAL",
       "size": 1020264448,
-      "url": "https://github.com/sounddrill31/Releases/releases/download/PlrOS-oxygen-20240206-2/lineage-20.0-20240206-UNOFFICIAL-REMIX-oxygen.zip",
+      "url": "https://github.com/sounddrill31/Releases/releases/download/Plr-oxygen-20240208/lineage-20.0-20240208-UNOFFICIAL-REMIX-oxygen.zip",
       "version": "20.0"
     }
   ]
